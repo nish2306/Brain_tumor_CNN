@@ -1,0 +1,4 @@
+# Brain_tumor_CNN
+Practice Model
+This is my 1st deep learning model. I took dataset from kaggle. I took help from kaggle Notebook and try to built model. 
+Use GoogleColab for building model. 
